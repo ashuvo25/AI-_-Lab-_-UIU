@@ -1,0 +1,1 @@
+cost = current_node.g
